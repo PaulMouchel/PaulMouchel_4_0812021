@@ -18,6 +18,23 @@ a:hover {
     cursor: pointer;
 }
 
+.quote {
+    color: #555;
+    max-width: 562px;
+    margin: auto;
+}
+
+blockquote {
+    font-style: italic;
+    font-size: 2rem;
+    margin: 0;
+    padding-bottom: 0;
+}
+
+.quote p {
+    font-size: 1.4rem;
+}
+
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
